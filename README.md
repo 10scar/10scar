@@ -48,6 +48,13 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad Nacional de Colombia
 
 ---
 
+## 🌟Proyectos Destacados.
+- Partner Parking – Aplicación web en PHP (privado).
+- [Dr. Mario Juego P5.JS – Juego en JavaScript y P5.js.](https://10scar.github.io/p5-js-drmario/)
+- [Conedus Información Paro Universidad Nacional](http://10scar.com/conedus)
+
+---
+
 ## Habilidades Técnicas  
 
 ```text
@@ -58,10 +65,6 @@ JavaScript    [████--]     40%
 AWS           [██████----] 60%
 WordPress     [██████████] 90%
 ```
-## 🌟Proyectos Destacados.
-- Partner Parking – Aplicación web en PHP.
-- Dr. Mario Juego P5.JS – Juego en JavaScript y P5.js.
-
 ## 🌐 Idiomas
 - Español: Nativo
 - Inglés: B1 (Intermedio)
